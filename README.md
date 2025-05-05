@@ -1,2 +1,7 @@
-👋 Hi, I'm [2bys](https://2bys.github.io)! I’m currently working on a package for **Laplace approximations in JAX** — check it out here:  
-🔗 [laplax-org/laplax](https://github.com/laplax-org/laplax).
+<p>
+  <pre align="center">
+Hi! 👋 I'm 2bys, a researcher working on uncertainty quantification for neural operators. 
+Check out my current project <code>laplax</code> – Laplace approximations in JAX.
+<a href="https://2bys.github.io/">Homepage</a> / <a href="https://github.com/laplax-org/laplax">laplax</a>
+</pre>
+</p>
